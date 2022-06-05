@@ -293,6 +293,7 @@ body {
 }
 
 .additional-info__education-university-name {
+    margin-bottom: 10px;
     color: var(--secondary-text-color);
 }
 
